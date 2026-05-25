@@ -18,7 +18,7 @@ This repository contains the neural-analytical hybrid pipeline for generating pr
 
 ## 🚀 Usage
 
-*(Coming Soon - Full code and models will be pushed by April 2026.)*
+*(Coming Soon - Full code and models will be pushed by June 2026.)*
 
 ---
 
